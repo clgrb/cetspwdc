@@ -41,7 +41,7 @@ The program does not require any additional parameters and can be executed as fo
 build/behdani
 ```
 
-### Minnell's instances generator
+### Mennell's instances generator
 The program generates CETSP-WDC instances using Mennell's instances and stores them in `MENNELL_WDC_DIR`.
 
 The `MENNELL_WDC_DIR` and `MENNELL_CETSP_DIR` parameters can be adjusted in the `config.h` file.
