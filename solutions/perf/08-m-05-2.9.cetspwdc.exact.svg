@@ -1,0 +1,82 @@
+<svg width="1000" height="1000" xmlns="http://www.w3.org/2000/svg">
+<line x1="279" y1="596" x2="222" y2="670" style="stroke:gray;stroke-width:1" stroke-dasharray="10,8" />
+<line x1="222" y1="670" x2="222" y2="670" style="stroke:crimson;stroke-width:1" />
+<line x1="222" y1="670" x2="222" y2="670" style="stroke:forestgreen;stroke-width:1" />
+<circle cx="222" cy="670" r="2" fill="crimson" />
+<circle cx="222" cy="670" r="2" fill="crimson" />
+<circle cx="222" cy="670" r="2" fill="forestgreen" />
+<line x1="222" y1="670" x2="400" y2="794" style="stroke:gray;stroke-width:1" stroke-dasharray="10,8" />
+<line x1="400" y1="794" x2="406" y2="799" style="stroke:crimson;stroke-width:1" />
+<line x1="406" y1="799" x2="408" y2="779" style="stroke:forestgreen;stroke-width:1" />
+<circle cx="400" cy="794" r="2" fill="crimson" />
+<circle cx="406" cy="799" r="2" fill="crimson" />
+<circle cx="408" cy="779" r="2" fill="forestgreen" />
+<line x1="408" y1="779" x2="402" y2="507" style="stroke:gray;stroke-width:1" stroke-dasharray="10,8" />
+<line x1="402" y1="507" x2="403" y2="491" style="stroke:crimson;stroke-width:1" />
+<line x1="403" y1="491" x2="416" y2="460" style="stroke:forestgreen;stroke-width:1" />
+<circle cx="402" cy="507" r="2" fill="crimson" />
+<circle cx="403" cy="491" r="2" fill="crimson" />
+<circle cx="416" cy="460" r="2" fill="forestgreen" />
+<line x1="416" y1="460" x2="537" y2="216" style="stroke:gray;stroke-width:1" stroke-dasharray="10,8" />
+<line x1="537" y1="216" x2="539" y2="205" style="stroke:crimson;stroke-width:1" />
+<line x1="539" y1="205" x2="513" y2="202" style="stroke:forestgreen;stroke-width:1" />
+<circle cx="537" cy="216" r="2" fill="crimson" />
+<circle cx="539" cy="205" r="2" fill="crimson" />
+<circle cx="513" cy="202" r="2" fill="forestgreen" />
+<line x1="513" y1="202" x2="278" y2="204" style="stroke:gray;stroke-width:1" stroke-dasharray="10,8" />
+<line x1="278" y1="204" x2="263" y2="204" style="stroke:crimson;stroke-width:1" />
+<line x1="263" y1="204" x2="231" y2="202" style="stroke:forestgreen;stroke-width:1" />
+<circle cx="278" cy="204" r="2" fill="crimson" />
+<circle cx="263" cy="204" r="2" fill="crimson" />
+<circle cx="231" cy="202" r="2" fill="forestgreen" />
+<line x1="231" y1="202" x2="211" y2="201" style="stroke:gray;stroke-width:1" stroke-dasharray="10,8" />
+<line x1="211" y1="201" x2="203" y2="200" style="stroke:crimson;stroke-width:1" />
+<line x1="203" y1="200" x2="216" y2="213" style="stroke:forestgreen;stroke-width:1" />
+<circle cx="211" cy="201" r="2" fill="crimson" />
+<circle cx="203" cy="200" r="2" fill="crimson" />
+<circle cx="216" cy="213" r="2" fill="forestgreen" />
+<line x1="216" y1="213" x2="321" y2="299" style="stroke:gray;stroke-width:1" stroke-dasharray="10,8" />
+<line x1="321" y1="299" x2="328" y2="304" style="stroke:crimson;stroke-width:1" />
+<line x1="328" y1="304" x2="327" y2="326" style="stroke:forestgreen;stroke-width:1" />
+<circle cx="321" cy="299" r="2" fill="crimson" />
+<circle cx="328" cy="304" r="2" fill="crimson" />
+<circle cx="327" cy="326" r="2" fill="forestgreen" />
+<line x1="327" y1="326" x2="304" y2="550" style="stroke:gray;stroke-width:1" stroke-dasharray="10,8" />
+<line x1="304" y1="550" x2="300" y2="565" style="stroke:crimson;stroke-width:1" />
+<line x1="300" y1="565" x2="279" y2="596" style="stroke:forestgreen;stroke-width:1" />
+<circle cx="304" cy="550" r="2" fill="crimson" />
+<circle cx="300" cy="565" r="2" fill="crimson" />
+<circle cx="279" cy="596" r="2" fill="forestgreen" />
+    <circle cx="222" cy="670" r="0" fill="none" stroke="crimson" stroke-width="1" />
+    <circle cx="222" cy="670" r="0" fill="none" stroke="forestgreen" stroke-width="1" />
+    <circle cx="222" cy="670" r="2" fill="black" />
+    <text x="224" y="668" fill="black" font-size="9px">Depot</text>
+    <circle cx="302" cy="568" r="18" fill="none" stroke="crimson" stroke-width="1" />
+    <circle cx="302" cy="568" r="36" fill="none" stroke="forestgreen" stroke-width="1" />
+    <circle cx="302" cy="568" r="2" fill="silver" />
+    <text x="303" y="569" fill="silver" font-size="9px">1</text>
+    <circle cx="262" cy="204" r="16" fill="none" stroke="crimson" stroke-width="1" />
+    <circle cx="262" cy="204" r="32" fill="none" stroke="forestgreen" stroke-width="1" />
+    <circle cx="262" cy="204" r="2" fill="silver" />
+    <text x="263" y="205" fill="silver" font-size="9px">2</text>
+    <circle cx="408" cy="800" r="11" fill="none" stroke="crimson" stroke-width="1" />
+    <circle cx="408" cy="800" r="21" fill="none" stroke="forestgreen" stroke-width="1" />
+    <circle cx="408" cy="800" r="2" fill="silver" />
+    <text x="409" y="801" fill="silver" font-size="9px">3</text>
+    <circle cx="402" cy="490" r="17" fill="none" stroke="crimson" stroke-width="1" />
+    <circle cx="402" cy="490" r="33" fill="none" stroke="forestgreen" stroke-width="1" />
+    <circle cx="402" cy="490" r="2" fill="silver" />
+    <text x="403" y="491" fill="silver" font-size="9px">4</text>
+    <circle cx="329" cy="305" r="11" fill="none" stroke="crimson" stroke-width="1" />
+    <circle cx="329" cy="305" r="21" fill="none" stroke="forestgreen" stroke-width="1" />
+    <circle cx="329" cy="305" r="2" fill="silver" />
+    <text x="330" y="306" fill="silver" font-size="9px">5</text>
+    <circle cx="544" cy="202" r="15" fill="none" stroke="crimson" stroke-width="1" />
+    <circle cx="544" cy="202" r="31" fill="none" stroke="forestgreen" stroke-width="1" />
+    <circle cx="544" cy="202" r="2" fill="silver" />
+    <text x="545" y="203" fill="silver" font-size="9px">6</text>
+    <circle cx="200" cy="200" r="11" fill="none" stroke="crimson" stroke-width="1" />
+    <circle cx="200" cy="200" r="21" fill="none" stroke="forestgreen" stroke-width="1" />
+    <circle cx="200" cy="200" r="2" fill="silver" />
+    <text x="201" y="201" fill="silver" font-size="9px">7</text>
+</svg>

@@ -1,0 +1,6 @@
+*.kdev4
+dataset
+dataset/mennell
+build
+output
+*.lp
